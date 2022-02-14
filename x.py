@@ -6,6 +6,7 @@ a = 'hello {}'.format('world')
 
 
 class foo(object):
+
     def f(self):
         return 37 * -+2
 
