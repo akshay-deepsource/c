@@ -1,1 +1,3 @@
-fn f( ){ println!("hello"); }
+fn f() {
+    println!("hello");
+}
